@@ -1,4 +1,4 @@
-# Masters Project
+# Master's Project
 
 ## Predicting Students' Academic Performance using Data Mining Techniques.
 
