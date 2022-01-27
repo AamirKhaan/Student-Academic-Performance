@@ -12,7 +12,8 @@ The stages of the project completed.
 
 ---
 
-#### References
+#### References:
 
-[1. Mining Educational Data to Predict Student’s academic Performance using Ensemble Methods](/reference_papers/mining educational data to predict student’s academic performance using ensemble methods.pdf)
-[2. Preprocessing and Analyzing Educational Data Set Using X-API for Improving Student’s Performance](/reference_paper/preprocessing and analyzing educational data set using x-api for improving student’s performance.pdf)
+1. [Mining Educational Data to Predict Student’s academic Performance using Ensemble Methods](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/reference_papers/Mining%20Educational%20Data%20to%20Predict%20Student%E2%80%99s%20academic%20Performance%20using%20Ensemble%20Methods.pdf)
+
+2. [Preprocessing and Analyzing Educational Data Set Using X-API for Improving Student’s Performance](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/reference_papers/Preprocessing%20and%20Analyzing%20Educational%20Data%20Set%20Using%20X-API%20for%20Improving%20Student%E2%80%99s%20Performance.pdf)
