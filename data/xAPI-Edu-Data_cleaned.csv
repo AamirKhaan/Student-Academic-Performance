@@ -331,8 +331,8 @@ M,Jordan,Jordan,LowerLevel,G-02,A,French,F,Father,40,7,50,41,No,Good,Above-7,L
 M,Jordan,Jordan,LowerLevel,G-02,A,French,S,Father,35,2,29,33,No,Good,Above-7,L
 F,Jordan,Jordan,LowerLevel,G-02,A,French,F,Mum,10,90,30,21,No,Good,Under-7,M
 F,Jordan,Jordan,LowerLevel,G-02,A,French,S,Mum,25,80,29,23,No,Good,Under-7,M
-M,Libya,Lybia,LowerLevel,G-02,A,French,F,Mum,10,8,9,3,No,Good,Above-7,L
-M,Libya,Lybia,LowerLevel,G-02,A,French,S,Mum,15,7,12,7,No,Good,Above-7,L
+M,Libya,Libya,LowerLevel,G-02,A,French,F,Mum,10,8,9,3,No,Good,Above-7,L
+M,Libya,Libya,LowerLevel,G-02,A,French,S,Mum,15,7,12,7,No,Good,Above-7,L
 F,Palestine,Jordan,LowerLevel,G-02,A,French,F,Mum,70,90,20,21,No,Good,Under-7,M
 F,Palestine,Jordan,LowerLevel,G-02,A,French,S,Mum,75,80,15,20,No,Good,Under-7,M
 F,Palestine,Jordan,LowerLevel,G-02,B,French,F,Father,78,98,10,11,No,Good,Under-7,M
@@ -345,8 +345,8 @@ F,Jordan,Jordan,LowerLevel,G-02,B,French,F,Mum,14,97,15,14,No,Good,Under-7,H
 F,Jordan,Jordan,LowerLevel,G-02,B,French,F,Mum,13,82,20,30,No,Good,Under-7,H
 F,Jordan,Jordan,LowerLevel,G-02,B,French,S,Mum,24,97,15,14,No,Good,Under-7,H
 F,Jordan,Jordan,LowerLevel,G-02,B,French,S,Mum,23,82,20,30,No,Good,Under-7,H
-M,Libya,Lybia,LowerLevel,G-02,B,French,F,Mum,20,3,9,3,No,Good,Above-7,L
-M,Libya,Lybia,LowerLevel,G-02,B,French,S,Mum,15,4,12,7,No,Good,Above-7,L
+M,Libya,Libya,LowerLevel,G-02,B,French,F,Mum,20,3,9,3,No,Good,Above-7,L
+M,Libya,Libya,LowerLevel,G-02,B,French,S,Mum,15,4,12,7,No,Good,Above-7,L
 M,Egypt,Egypt,LowerLevel,G-02,B,French,F,Mum,5,13,6,6,No,Good,Above-7,L
 M,Egypt,Egypt,LowerLevel,G-02,B,French,S,Mum,7,9,11,10,No,Good,Above-7,L
 F,Jordan,Jordan,LowerLevel,G-02,B,French,F,Mum,10,94,40,11,Yes,Good,Under-7,M
@@ -411,8 +411,8 @@ F,Jordan,Jordan,MiddleSchool,G-07,B,Biology,F,Mum,70,89,12,21,No,Good,Under-7,H
 F,Jordan,Jordan,MiddleSchool,G-07,B,Biology,S,Mum,59,90,19,43,No,Good,Under-7,H
 M,Palestine,Jordan,MiddleSchool,G-07,B,Biology,F,Father,78,80,66,51,Yes,Good,Under-7,M
 M,Palestine,Jordan,MiddleSchool,G-07,B,Biology,S,Father,79,72,79,83,Yes,Good,Under-7,M
-F,Libya,Lybia,MiddleSchool,G-07,B,Biology,F,Mum,10,9,2,1,No,Good,Above-7,L
-F,Libya,Lybia,MiddleSchool,G-07,B,Biology,S,Mum,9,7,9,3,No,Good,Above-7,L
+F,Libya,Libya,MiddleSchool,G-07,B,Biology,F,Mum,10,9,2,1,No,Good,Above-7,L
+F,Libya,Libya,MiddleSchool,G-07,B,Biology,S,Mum,9,7,9,3,No,Good,Above-7,L
 M,Iraq,Iraq,MiddleSchool,G-07,B,Biology,F,Father,98,90,86,71,Yes,Good,Under-7,H
 M,Iraq,Iraq,MiddleSchool,G-07,B,Biology,S,Father,89,92,89,83,Yes,Good,Under-7,H
 M,Palestine,Jordan,MiddleSchool,G-07,B,Biology,F,Father,88,90,76,81,Yes,Good,Under-7,H

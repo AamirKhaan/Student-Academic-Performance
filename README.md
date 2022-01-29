@@ -9,7 +9,7 @@ The stages of the project completed.
 1. [Data Cleaning.](01_data_cleaning.ipynb)
 2. [Categorical Data Visualization.](02_categorical_data_visualization.ipynb)
 3. [Numerical Data Visualization.](03_numerical_data_visualization.ipynb)
-
+4. [Features Engineering](04_Features_Engineering.ipynb)
 ---
 
 #### References:
