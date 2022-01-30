@@ -10,6 +10,7 @@ The stages of the project completed.
 2. [Categorical Data Visualization.](02_Categorical_Data_Visualization.ipynb)
 3. [Numerical Data Visualization.](03_Numerical_Data_Visualization.ipynb)
 4. [Features Engineering](04_Feature_Engineering.ipynb)
+5. [Feature Selection](05_Feature_Selection.ipynb)
 ---
 
 #### References:
