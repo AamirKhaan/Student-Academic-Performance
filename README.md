@@ -12,6 +12,8 @@ The stages of the project completed.
 4. [Features Engineering](04_Feature_Engineering.ipynb)
 5. [Feature Selection](05_Feature_Selection.ipynb)
 6. [Data Encoding](06_Data_Encoding.ipynb)
+7. [Preliminary Decision Tree Model](07_Preliminary_DecisionTreeClassifier.ipynb)
+
 ---
 
 #### References:
