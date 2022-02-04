@@ -14,7 +14,7 @@ The stages of the project completed.
 6. [Data Encoding](06_Data_Encoding.ipynb)
 7. [Preliminary Decision Tree Model](07_Preliminary_DecisionTreeClassifier.ipynb)
 
-![Preliminary Decision Tree](/images/Preliminary Decision Tree.png)
+![Preliminary Decision Tree](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/images/Preliminary%20Decision%20Tree.png)
 ---
 
 #### References:
