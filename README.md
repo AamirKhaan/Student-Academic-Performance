@@ -14,7 +14,26 @@ The stages of the project completed.
 6. [Data Encoding](06_Data_Encoding.ipynb)
 7. [Preliminary Decision Tree Model](07_Preliminary_DecisionTreeClassifier.ipynb)
 
+# Preliminary Decision Tree Classification Model
+
 ![Preliminary Decision Tree](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/images/Preliminary%20Decision%20Tree.png)
+
+Test Accuracy : 70.866%
+Train Accuracy: 100%
+
+8. [Base Decision Tree Model](08_Base_DecisionTreeClassifier.ipynb)
+
+# Base Decision Tree Classification Model
+**(Pruned)**
+
+![Base Decision Tree](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/images/Base%20Decision%20Tree.png)
+
+Test Accuracy : 75.95%
+Train Accuracy: 86.56%
+
+**10 Fold Cross Validation**
+Mean Accuracy : 70.9%
+
 ---
 
 #### References:
