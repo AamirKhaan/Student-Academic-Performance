@@ -18,7 +18,7 @@ The stages of the project completed.
 
 ![Preliminary Decision Tree](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/images/Preliminary%20Decision%20Tree.png)
 
-Test Accuracy : 70.866%
+Test Accuracy : 70.866%    
 Train Accuracy: 100%
 
 8. [Base Decision Tree Model](08_Base_DecisionTreeClassifier.ipynb)
@@ -28,10 +28,10 @@ Train Accuracy: 100%
 
 ![Base Decision Tree](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/images/Base%20Decision%20Tree.png)
 
-Test Accuracy : 75.95%
+Test Accuracy : 75.95%    
 Train Accuracy: 86.56%
 
-**10 Fold Cross Validation**
+**10 Fold Cross Validation**    
 Mean Accuracy : 70.9%
 
 ---
