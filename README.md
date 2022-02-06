@@ -34,6 +34,14 @@ Train Accuracy: 86.56%
 **10 Fold Cross Validation**    
 Mean Accuracy : 70.9%
 
+8. [Gaussian Naive Bayes](09_Gaussian_NaiveBayesClassifier.ipynb)
+
+Test Accuracy : 74.68%    
+Train Accuracy: 73.12%
+
+**10 Fold Cross Validation**    
+Mean Accuracy : 71.6%
+
 ---
 
 #### References:
