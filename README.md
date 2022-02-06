@@ -9,6 +9,11 @@ The stages of the project completed.
 1. [Data Cleaning.](01_Data_Cleaning.ipynb)
 2. [Categorical Data Visualization.](02_Categorical_Data_Visualization.ipynb)
 3. [Numerical Data Visualization.](03_Numerical_Data_Visualization.ipynb)
+
+# Feature Selection
+
+![Feature Scores](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/images/Feature%20Selection.png)
+
 4. [Features Engineering](04_Feature_Engineering.ipynb)
 5. [Feature Selection](05_Feature_Selection.ipynb)
 6. [Data Encoding](06_Data_Encoding.ipynb)
