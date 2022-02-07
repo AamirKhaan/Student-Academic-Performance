@@ -47,6 +47,14 @@ Train Accuracy: 73.12%
 **10 Fold Cross Validation**    
 Mean Accuracy : 71.6%
 
+10. [Multinomial Logistic Regression](10_Multinomial_Logistic_Regression.ipynb)
+
+Test Accuracy : 75.95%    
+Train Accuracy: 76.24%
+
+**10 Fold Cross Validation**    
+Mean Accuracy : 71.5%
+
 ---
 
 #### References:
