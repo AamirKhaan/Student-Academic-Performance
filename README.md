@@ -63,6 +63,14 @@ Train Accuracy: 99.69%
 **10 Fold Cross Validation**    
 Mean Accuracy : 74%
 
+12. [AdaBoost Classifier](12_Boosting_AdaBoostClassifier.ipynb)
+
+Test Accuracy : 76.58%    
+Train Accuracy: 81.25%
+
+**10 Fold Cross Validation**    
+Mean Accuracy : 70.6%
+
 ---
 
 #### References:
