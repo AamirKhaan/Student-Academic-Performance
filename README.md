@@ -55,6 +55,14 @@ Train Accuracy: 76.24%
 **10 Fold Cross Validation**    
 Mean Accuracy : 71.5%
 
+11. [Bagging Decision Tree](11_Bagging_DecisionTreeClassifier.ipynb)
+
+Test Accuracy : 79.11%    
+Train Accuracy: 99.69%
+
+**10 Fold Cross Validation**    
+Mean Accuracy : 74%
+
 ---
 
 #### References:
