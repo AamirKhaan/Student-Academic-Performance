@@ -71,6 +71,14 @@ Train Accuracy: 81.25%
 **10 Fold Cross Validation**    
 Mean Accuracy : 70.6%
 
+12. [RandomForest](13_RandomForest.ipynb)
+
+Test Accuracy : 79.75%    
+Train Accuracy: 99.38%
+
+**10 Fold Cross Validation**    
+Mean Accuracy : 76%
+
 ---
 
 #### References:
