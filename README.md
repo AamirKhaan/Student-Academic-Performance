@@ -71,13 +71,21 @@ Train Accuracy: 81.25%
 **10 Fold Cross Validation**    
 Mean Accuracy : 70.6%
 
-12. [RandomForest](13_RandomForest.ipynb)
+13. [RandomForest](13_RandomForest.ipynb)
 
 Test Accuracy : 79.75%    
 Train Accuracy: 99.38%
 
 **10 Fold Cross Validation**    
 Mean Accuracy : 76%
+
+14. [MLP - Artificail Neural Network (ANN)](14_ArtificialNeuralNetwork.ipynb)
+
+Test Accuracy : 77.125%    
+Train Accuracy: 78.125%
+
+**10 Fold Cross Validation**    
+Mean Accuracy : 72.2%
 
 ---
 
