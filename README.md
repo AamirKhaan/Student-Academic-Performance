@@ -79,7 +79,7 @@ Train Accuracy: 99.38%
 **10 Fold Cross Validation**    
 Mean Accuracy : 76%
 
-14. [MLP - Artificail Neural Network (ANN)](14_ArtificialNeuralNetwork.ipynb)
+14. [MLP - Artificial Neural Network (ANN)](14_ArtificialNeuralNetwork.ipynb)
 
 Test Accuracy : 77.125%    
 Train Accuracy: 78.125%
