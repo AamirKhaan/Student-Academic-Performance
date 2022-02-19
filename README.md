@@ -87,6 +87,25 @@ Train Accuracy: 78.125%
 **10 Fold Cross Validation**    
 Mean Accuracy : 72.2%
 
+15. [ANN Tensorflow](15_ANN.ipynb)
+
+# ANN Tensorflow Model
+
+![ANN Model](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/images/ANN_model.png)
+
+Test Accuracy : 75.95%    
+Train Accuracy: 78.44%
+
+16. [DNN Tensorflow](16_DNN.ipynb)
+
+
+# DNN Tensorflow Model
+
+![DNN Model](https://github.com/AamirKhaan/Student-Academic-Performance/blob/main/images/DNN_model.png)
+
+Test Accuracy : 77.125%    
+Train Accuracy: 78.125%
+
 ---
 
 #### References:
